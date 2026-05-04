@@ -1,0 +1,12 @@
+/*definindo o root abaixo, o editor utilizará as configurações aqui definidas*/
+//não subirá a navegação de pastas procurando outros arquivos .editorconfig
+root = true
+    
+//regras para todos os arquivos
+[*] 
+
+//utilizar espaço como caractere de indentação
+indent_style = space
+
+/* quantidade de espaço */
+indent_size = 2
